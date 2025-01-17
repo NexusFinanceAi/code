@@ -39,13 +39,16 @@ Nexus Finance is a groundbreaking DeFi protocol that revolutionizes NFT liquidit
 
 1.  Clone the repository: `git clone [repository URL]`
 2.  Install dependencies: `npm install`
-3.  Configure environment variables.
+3.  Configure environment variables in the `.env` file.
+    - Set `BASE_RPC_URL` to your Base network RPC URL.
+    - Set `PRIVATE_KEY` to the private key of your deployment account.
+    - Set `BASESCAN_API_KEY` to your BaseScan API key.
 4.  Deploy smart contracts: `npx hardhat deploy`
 5.  Start the application: `npm start`
 
 ## Contributing
 
-Contributions are welcome! Please refer to the contributing guidelines for more information.
+Contributions are welcome! Please refer to the contributing guidelines in `CONTRIBUTING.md` for more information.
 
 ## License
 
