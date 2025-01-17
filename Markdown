@@ -1,0 +1,24 @@
+# Nexus Finance
+
+Nexus Finance is a groundbreaking DeFi protocol that revolutionizes NFT liquidity by enabling peer-to-peer lending using NFTs as collateral. It leverages AI agents, powered by the Virtuals Protocol's GAME Framework, to accurately assess NFT value.
+
+## Features
+
+*   **AI-Powered NFT Valuation:**  Accurately determines the collateral value of NFTs using advanced AI analysis.
+*   **NFT-Backed Loans:** Allows users to borrow funds by collateralizing their NFTs.
+*   **P2P Lending:** Connects borrowers and lenders directly through a decentralized platform.
+*   **Dynamic Interest Rates:**  Optimizes interest rates based on market demand and supply.
+*   **Community Governance:**  Empowers $NEXUS token holders to participate in platform governance.
+
+## Technology Stack
+
+*   **Blockchain:** Base (ETH L2)
+*   **AI Framework:** Virtuals Protocol's GAME Framework
+*   **Smart Contracts:** Solidity
+*   **Token Standard:** ERC-20
+
+## Token
+
+*   **Token Name:** $NEXUS
+*   **Total Supply:** 1,000,000,000 (fixed)
+*   **Utility
